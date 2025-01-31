@@ -1,0 +1,15 @@
+Context=roleplay_mode
+enableRoleplay=Enable Roleplay Mode
+welcomeMessages=Welcome Messages
+roles=Roles
+postCreationMessages=Post-Creation Messages
+events=Events
+time=Time (in seconds)
+message=Event Message
+configChanges=Configuration Changes
+roleMessages=Role Messages
+lvlUpNum=Number of Resets to Level Up
+chatMessage=Event Chat Message
+preEventTime=Time Before Event (in seconds)
+iniFile=Event .ini File
+reconnectMessage=Reconnect Message

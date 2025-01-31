@@ -1,0 +1,9 @@
+Context=roleplay_mode
+enableRoleplay=Habilitar Modo Roleplay
+welcomeMessages=Mensajes de Bienvenida
+roles=Roles
+postCreationMessages=Mensajes Posteriores
+events=Eventos
+time=Tiempo (en segundos)
+message=Mensaje del Evento
+configChanges=Cambios en la Configuración

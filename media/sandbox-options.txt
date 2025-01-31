@@ -1,0 +1,41 @@
+VERSION = 1,
+
+option RPMod.EnableRoleplay
+{
+    type = boolean,
+    default = true,
+    page = RPMod,
+    translation = RPMod_EnableRoleplay,
+}
+
+option RPMod.WelcomeMessages
+{
+    type = string,
+    default = "This is a Role Play Server; This server has a story based in wuxia genre; This world be devastated in a couple of days, zombies will rampage all around and infecting everyone; This is the beginning of the end of everything. ",
+    page = RPMod,
+    translation = RPMod_WelcomeMessages,
+}
+
+option RPMod.Roles
+{
+    type = string,
+    default = "Player:You know that you are in a game, your mission is killing all zombies:In exactly 3 days things zombies will appear, in 3 months zombies will be everywhere, in 9 months they will evolve becoming in more dangerous creatures: theres a way to be inmune:9;Awakened:You are someone who has reincarnated (Isekai) from a future where zombies destroyed everything, you know that in 3 days everything will change, in some months everything will be worst:Survive and kill the zombies:1;Sleeper: You dont know anything, you are in a world where something is happening but news say its not something to be preocupied: You are suspicious, you have heard that there is some weird virus:0",
+    page = RPMod,
+    translation = RPMod_Roles,
+}
+
+option RPMod.PostCreationMessages
+{
+    type = string,
+    default = "Remember your mission!; Find comarades, if you are alone you will die as everyone else.",
+    page = RPMod,
+    translation = RPMod_PostCreationMessages,
+}
+
+option RPMod.Events
+{
+    type = string,
+    default = "3600:A storm is coming. Find shelter.:Chat message before event:600:config.ini:Reconnect message",
+    page = RPMod,
+    translation = RPMod_Events,
+}

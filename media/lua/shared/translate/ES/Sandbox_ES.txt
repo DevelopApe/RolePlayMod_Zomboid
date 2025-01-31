@@ -1,0 +1,15 @@
+Context=roleplay_mode
+enableRoleplay=Habilitar Modo Roleplay
+welcomeMessages=Mensajes de Bienvenida
+roles=Roles
+postCreationMessages=Mensajes Posteriores
+events=Eventos
+time=Tiempo (en segundos)
+message=Mensaje del Evento
+configChanges=Cambios en la Configuración
+roleMessages=Mensajes del Rol
+lvlUpNum=Numero de Reinicios para Subir
+chatMessage=Mensaje de Chat del Evento
+preEventTime=Tiempo Antes del Evento (en segundos)
+iniFile=Archivo .ini del Evento
+reconnectMessage=Mensaje al Reconectar
